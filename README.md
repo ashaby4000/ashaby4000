@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashaby4000
-- 👀 I’m interested in Web development 
-- 🌱 I’m currently learning php
+- 👀 I’m interested in Web design
+- 🌱 I’m currently learning ui/ux design
 - 💞️ I’m looking to collaborate on Web design 
 - 📫 How to reach me azeez.busirat@gmail.com 
 
