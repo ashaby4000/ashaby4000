@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @busiratbolanle
-- 👀 I’m interested in Web design
-- 🌱 I’m currently learning ui/ux design
-- 💞️ I’m looking to collaborate on Web design 
-- 📫 How to reach me azeez.busirat@gmail.com 
+- 👀 I’m interested in Data Analysis
+- 🌱 I’m currently learning Python for Data analysis
+- 💞️ I’m looking to collaborate on crumbling data for the purpose of improving the healthcare systems especially in the low and middle income countries
+- 📫 You can reach me via my email: azeez.busirat@gmail.com 
 
 <!---
 busiratbolanle/busiratbolanle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
